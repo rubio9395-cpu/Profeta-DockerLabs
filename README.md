@@ -1,7 +1,7 @@
 
 ![foto](21.png)
 
-tenemos la maquina Profetas nivel medio de DockerLabs
+Tenemos la maquina Profetas nivel medio de DockerLabs
 
 ![foto](ping%201.png)
 
@@ -78,7 +78,7 @@ Recivimos en maquina anfitrion con croc
 
 ![foto](19.png)
 
-"Para mantener la organización de los artefactos obtenidos, creamos una carpeta denominada croc, donde almacenamos los archivos ezequiel.pyc y pass0rd_r00t.txt. Al visualizar el contenido de este último mediante el comando cat, logramos extraer la contraseña de root compartida con el usuario ezequiel: fl4sk1pwd.
+Para mantener la organización de los artefactos obtenidos, creamos una carpeta denominada croc, donde almacenamos los archivos ezequiel.pyc y pass0rd_r00t.txt. Al visualizar el contenido de este último mediante el comando cat, logramos extraer la contraseña de root compartida con el usuario ezequiel: fl4sk1pwd.
 
 ![foto](20.png)
 
