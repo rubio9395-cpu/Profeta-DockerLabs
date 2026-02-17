@@ -1,3 +1,3 @@
 ![foto](ping%201.png)
 
-Hacemos un ping para ver que tengamos coneccion y tenemos un ttl=64 lo cual nos dice que es una maaquina linux
+Tras ejecutar un comando ping, la respuesta muestra un TTL=64. Este valor es característico de los sistemas basados en Unix/Linux, permitiéndonos identificar el sistema operativo del objetivo.
