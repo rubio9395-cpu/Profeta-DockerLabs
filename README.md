@@ -1,1 +1,1 @@
-![foto](nmap2.png)
+![foto](ping%201.png)
